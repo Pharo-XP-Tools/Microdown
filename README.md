@@ -6,6 +6,10 @@
 
 I'm a parser for microdown implemented by S. Ducasse, L. Dargaud and G. Polito. The implementation is based on the work on markdown of K. Osterbye. 
 
+## Fork information
+This is a fork made specifically for Pharo-XP-Tools project. Forked on October 2021. For this, pharo-xp-main serves as the main branch, and we use pharo-xp-dev for general development and default one.
+
+## Microdown
 
 Microdown is a smaller markdown but more extensible. 
 It supports
