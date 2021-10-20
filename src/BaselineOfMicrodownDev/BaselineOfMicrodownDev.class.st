@@ -11,7 +11,7 @@ BaselineOfMicrodownDev >> baseline: spec [
 	spec for: #common do: [ 
 		spec
 			baseline: 'PillarDocumentModel'
-			with: [ spec repository: 'github://pillar-markup/pillar:dev-8/src' ].
+			with: [ spec repository: 'github://Pharo-XP-Tools/pillar:dev-8/src' ].
 		spec
 			package: #Microdown;
 			package: #'Microdown-Tests'
